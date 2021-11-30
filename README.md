@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volkas</h1>
 <h3 align="center">A network engineer developing and maintaining computer networks</h3>
 
+- 🏫 I'm studying at **Saigon University**
 - 📫 How to reach me **namkeje@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
