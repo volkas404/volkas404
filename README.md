@@ -16,8 +16,8 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 <div align="center">
 <div align="left">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=volkas404&count_private=true&theme=tokyonight&hide_border=false"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=volkas404&count_private=true&show_icons=true&theme=tokyonight&hide_border=false"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=volkas404&count_private=true&theme=synthwave&hide_border=false"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=volkas404&count_private=true&show_icons=true&theme=synthwave&hide_border=false"/></p>
 </div align="right">
-<div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkas404&langs_count=10&count_private=true&theme=tokyonight&show_icons=true&hide_border=false"/></p></div>
+<div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkas404&langs_count=10&count_private=true&theme=synthwave&show_icons=true&hide_border=false"/></p></div>
 </div>
