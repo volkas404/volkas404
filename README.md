@@ -19,5 +19,5 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=volkas404&count_private=true&theme=tokyonight&hide_border=false"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=volkas404&count_private=true&show_icons=true&theme=tokyonight&hide_border=false"/></p>
 </div align="right">
-<div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkas404&langs_count=10&count_private=true&theme=tokyonight&show_icons=true&hide_border=false"/></p></div>
+
 </div>
